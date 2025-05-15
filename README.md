@@ -29,10 +29,6 @@ React öğrenme sürecimde gerçek hayata uygulanabilir örneklerle ilerlemek is
 
 Amacım sadece öğrenmek değil, aynı zamanda profesyonel portföyüme katkı sağlayacak işler çıkarmak. Bu projeyi ileride TypeScript, context API, dark mode gibi ek özelliklerle de güncellemeyi planlıyorum.
 
-## 📸 Ekran Görüntüsü
-
-> 🖼️ (Buraya ekran görüntüsü ekleyebilirsin)
-
 ## 📂 Kurulum
 
 Projeyi kendi bilgisayarında çalıştırmak istersen:
