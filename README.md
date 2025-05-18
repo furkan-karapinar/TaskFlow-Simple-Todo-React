@@ -44,7 +44,7 @@ Amacım sadece öğrenmek değil, aynı zamanda profesyonel portföyüme katkı 
 Projeyi kendi bilgisayarında çalıştırmak istersen:
 
 ```bash
-git clone https://github.com/furkan-karapinar/React-Simple-Todo.git
-cd React-Simple-Todo
+git clone https://github.com/furkan-karapinar/TaskFlow-Simple-Todo-React.git
+cd TaskFlow-Simple-Todo-React
 npm install
 npm start
